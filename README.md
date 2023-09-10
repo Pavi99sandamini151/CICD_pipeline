@@ -1,2 +1,2 @@
-# CICD_pipeline
-pipeline and deploy in github pages with github action
+# CI-CD_pipeline
+create my first CICD pipeline for a project
